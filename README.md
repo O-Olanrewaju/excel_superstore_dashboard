@@ -41,5 +41,4 @@ The dataset contains transactional sales data including:
 - Customer segment breakdown  
 
 ## Dashboard Preview
-*(Add a screenshot here once uploaded)*
-
+![Dashboard](dashboard.png)
