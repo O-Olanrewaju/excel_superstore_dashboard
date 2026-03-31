@@ -1,9 +1,9 @@
 # excel_superstore_dashboard
-Sales data analysis using Excel, exploring revenue trends, product performance, and regional insights through an interactive dashboard
+Sales and profitability analysis using Excel,exploring revenue trends, product performance, and regional insights through an interactive dashboard
 # Superstore Sales Analysis (Excel Dashboard)
 
 ## Overview
-This project analyses retail sales data using Microsoft Excel to identify trends in revenue, profitability, and customer behaviour. The goal was to extract meaningful insights and present them through a structured dashboard.
+Developed an interactive Excel dashboard to analyse sales performance and profitability across regions, categories, and time.The goal was to extract meaningful insights and present them through a structured dashboard.
 
 ## Tools Used
 - Microsoft Excel  
