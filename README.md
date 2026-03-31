@@ -20,25 +20,22 @@ The dataset contains transactional sales data including:
 - Quantity and Discount  
 - Customer Segment  
 
-## Key Analysis Performed
-- Sales performance by region and category  
-- Profitability analysis across products  
-- Monthly sales trends  
-- Impact of discounts on profit  
-- Customer segment analysis  
-
 ## Key Insights
-- Some high-sales products generate low profit due to heavy discounting  
-- Sales performance varies significantly across regions  
-- Discounts negatively impact profit margins  
-- A small number of products contribute most of the revenue  
+- The West region is the strongest performer in both sales and profit  
+- The Central region underperforms due to losses in the Furniture category  
+- Technology is the most profitable category across all regions  
+- Sales have steadily increased over time, with profit showing gradual improvement
+
+## Business Value
+This analysis helps identify high-performing regions, optimise pricing strategies, and improve product profitability, supporting better business decision-making.
 
 ## Dashboard Features
-- KPI summary (Total Sales, Total Profit)  
-- Sales by region  
-- Profit by category  
-- Monthly sales trends  
-- Customer segment breakdown  
+- KPI-style insights highlighting key findings  
+- Sales and profit comparison by region  
+- Sales and profit trends over time (2014–2017)  
+- Interactive category filter (slicer) for dynamic analysis  
+- Category-level performance breakdown  
+- Sub-category analysis highlighting profit and loss drivers  
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
